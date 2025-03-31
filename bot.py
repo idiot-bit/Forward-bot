@@ -14,7 +14,7 @@ DEST_CHANNEL = os.getenv("DEST_CHANNEL")
 # Predefined caption template
 CAPTION_TEMPLATE = """𝖪𝖾𝗒 𝖴𝗉𝖽𝖺𝗍𝖾𝖽 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒  ✅
 
-Key - `{}`
+Key - {}
 
 𝗡𝗼𝘁𝗲 : 
 𝖨𝖿 𝖸𝗈𝗎 𝖲𝗁𝖺𝗋𝖾 𝖳𝗁𝗂𝗌 𝖯𝗈𝗌𝗍 ♻️
